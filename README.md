@@ -37,6 +37,8 @@ This project uses environment variables for security.
 ### Run the server
 `./mvnw spring-boot:run`
 
+http://localhost:8080/hellohttp://localhost:8080/hello
+
 On Windows, use `mvnw spring-boot:run.`
 
 The server will start on port 8080.
